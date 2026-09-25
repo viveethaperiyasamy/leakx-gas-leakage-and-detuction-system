@@ -28,16 +28,6 @@ The system uses a gas sensor to continuously monitor the surrounding environment
 9\. USB cable / suitable power supply  
 10\. Servo motor – if included in the implemented setup
 
- **Block Diagram**
-
-Gas Sensor  
-↓  
-Arduino UNO  
-↓  
-┌───────────────┬───────────────┬───────────────┐  
-↓               ↓               ↓  
-LCD Display     LED Alert       Buzzer Alert
-
 **Working Principle**
 
 The gas sensor continuously senses the presence of combustible gases in the surrounding environment.
